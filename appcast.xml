@@ -8,16 +8,16 @@
     <description>Secure automatic updates for vScan 6</description>
     <language>en</language>
     <item>
-      <title>vScan 6 6.1.1</title>
-      <description><![CDATA[Automatic build from private source commit 3896fd7.]]></description>
-      <pubDate>Fri, 07 Aug 2026 03:55:35 +0000</pubDate>
+      <title>vScan 6 6.1.2</title>
+      <description><![CDATA[Automatic build from private source commit 84aa65d.]]></description>
+      <pubDate>Fri, 07 Aug 2026 04:36:07 +0000</pubDate>
       <enclosure
-          url="https://github.com/njames86/vScan6-Updates/releases/download/v6.1.1/vScan6-6.1.1-macOS.zip"
-          sparkle:version="59"
-          sparkle:shortVersionString="6.1.1"
-          length="13538086"
+          url="https://github.com/njames86/vScan6-Updates/releases/download/v6.1.2/vScan6-6.1.2-macOS.zip"
+          sparkle:version="60"
+          sparkle:shortVersionString="6.1.2"
+          length="13558443"
           type="application/octet-stream"
-          sparkle:edSignature="JTGE+bCmH7d+E9Pq4yImEmqrhZ5POmF6KFj5y7yiB7AXibA+NmWWfIFVfjPfWrf6YSJZEXPRpU8v7pAiYqlKDA==" />
+          sparkle:edSignature="W/pm/CGpayyMt8VjHohT7K0+0jnJmbPMhbjvEjJjhHadwXs1PCaPTOD9zSzVW/HHsNPR0l5udZyvMAsXJqYKAw==" />
     </item>
   </channel>
 </rss>
